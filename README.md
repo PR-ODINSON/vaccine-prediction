@@ -40,38 +40,7 @@ vaccine-prediction/
 └── submission.csv                # Predictions for submission
 ```
 
-## Usage
 
-### Installation
-
-1. **Clone the repository**:
-
-   ```bash
-   git clone https://github.com/your-username/vaccine-prediction.git
-   cd vaccine-prediction
-   ```
-
-2. **Install dependencies**:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-### Running the Model
-
-1. **Navigate to the project directory**:
-
-   ```bash
-   cd vaccine-prediction
-   ```
-
-2. **Execute the model training script**:
-
-   ```bash
-   python scripts/model_training.py
-   ```
-
-   - This script performs data loading, preprocessing, model training, and generates predictions (`submission.csv`).
 
 
 ---
