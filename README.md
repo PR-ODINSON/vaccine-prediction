@@ -17,7 +17,7 @@ The project includes data preprocessing, model training using RandomForestClassi
 - **Modeling Approach**: 
   - RandomForestClassifier is utilized within a MultiOutputClassifier to handle the multi-label nature of the problem.
 - **Evaluation Metric**: 
-  - Performance is evaluated using the area under the Receiver Operating Characteristic curve (ROC AUC), separately for each target variable.
+  - Performance is evaluated using the area under the Receiver Operating Characteristic curve (ROC AUC), separately for each target variable!
 
 ## Directory Structure
 
